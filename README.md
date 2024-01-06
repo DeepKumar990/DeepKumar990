@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prince Kumar</h1>
+<h1 align="center">Hi 👋, I'm Deep Kumar</h1>
 <h3 align="center">Building and Sharing Innovative Solutions</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47i8s9qleucyq92tkqqoht9wptlvs7xuv3kri2kt72&ep=v1_gifs_search&rid=giphy.gif&ct=g">
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **SecureFam**
 
-- 🌱 I’m currently learning **Algorithims,Android Development,DBMS**
+- 🌱 I’m currently learning **Algorithims,Web Development,DBMS**
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 📫 How to reach me **prince.kumar2021a@vitstudent.ac.in**
+- 📫 How to reach me **deep.kumar2021a@vitstudent.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
